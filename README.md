@@ -17,6 +17,7 @@ add your supabase url and key to configuration file(.env.local)
 sign up with strong password (http://localhost:3000/login)
 Get product list in Home Page
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/anupamabistec/shoppingcart-teamd/assets/159124280/6c3e3436-996a-4c93-9a4b-214f74c7669e)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
