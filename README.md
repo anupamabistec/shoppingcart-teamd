@@ -13,7 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
-
+add your supabase url and key to configuration file(.env.local)
+sign up with strong password (http://localhost:3000/login)
+Get product list in Home Page
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
