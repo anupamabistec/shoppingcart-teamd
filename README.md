@@ -18,6 +18,7 @@ sign up with strong password (http://localhost:3000/login)
 Get product list in Home Page
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ![image](https://github.com/anupamabistec/shoppingcart-teamd/assets/159124280/6c3e3436-996a-4c93-9a4b-214f74c7669e)
+![image](https://github.com/anupamabistec/shoppingcart-teamd/assets/159124280/504a9f30-b4d5-4d5f-9b08-91f76aa03838)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
